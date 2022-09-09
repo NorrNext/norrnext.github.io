@@ -1,2 +1,2 @@
-==INDEX==
+## INDEX ##
 Some text here
